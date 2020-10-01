@@ -1,0 +1,5 @@
+name: Boco_Mob
+version: Beta_001
+main: com.boco.project.Main
+commands:
+  M:
